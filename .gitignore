@@ -31,6 +31,7 @@ init.js
 modernizr.jsc
 index.html
 *.pdf
+/papers
 
 
 # Bower dependency directory (https://bower.io/)
