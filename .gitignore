@@ -30,7 +30,7 @@ magnific-popup.css
 init.js
 modernizr.jsc
 index.html
-claireResume.pdf
+*.pdf
 
 
 # Bower dependency directory (https://bower.io/)
