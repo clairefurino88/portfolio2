@@ -23,6 +23,14 @@ coverage
 # Grunt intermediate storage (http://gruntjs.com/creating-plugins#storing-task-files)
 .grunt
 
+default.css
+fonts.css
+layout.css
+magnific-popup.css
+init.js
+modernizr.jsc
+index.html
+
 # Bower dependency directory (https://bower.io/)
 bower_components
 
@@ -56,4 +64,7 @@ typings/
 
 # dotenv environment variables file
 .env
+.node_modules
+
+
 
