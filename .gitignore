@@ -23,16 +23,6 @@ coverage
 # Grunt intermediate storage (http://gruntjs.com/creating-plugins#storing-task-files)
 .grunt
 
-default.css
-fonts.css
-layout.css
-magnific-popup.css
-init.js
-modernizr.jsc
-index.html
-*.pdf
-/papers
-papers/
 
 
 # Bower dependency directory (https://bower.io/)
